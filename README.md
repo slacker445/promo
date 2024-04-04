@@ -1,4 +1,4 @@
-# Antidetect browser
+# Antidetect browser MacOS Linux Windows 
 
 ### https://disk.yandex.ru/d/QXuCZs1MC5T3FQ архив на chrome
 ### https://disk.yandex.ru/d/XRlwhl3yipstsw архив на профиль
